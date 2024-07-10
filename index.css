@@ -1,0 +1,104 @@
+html, body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabeza{
+
+    height: 100px;
+    display: flex;justify-content: center;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+}
+.menus{
+    width: 90%;
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu-izq{
+    display: flex;
+    gap: 40px;
+}
+.menu-dere{
+    display: flex;
+    justify-content: end;
+}
+.todo{
+    background-color: rgb(236, 236, 236);
+    height: 1300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.diseño-izq{
+    border: red solid 2px;
+    height: auto;
+    width: 75%;
+    display: flex;
+}
+.imagen{
+    height: auto;
+    width: 50%;
+    height: auto;
+}
+.imagen img{
+    height: 400px;
+    width: 695px;
+}
+.texto{
+    width: 50%;
+    height: 399px;
+    background: #D7CCE0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto-con{
+    text-align: center;
+    margin: 90px;
+    font-weight: 300;
+    color: rgb(145, 105, 163);
+}
+.texto-con h1{
+    color: rgb(98, 72, 110);
+    font-size: 3em;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.diseño-dere{
+    margin-top: 30px;
+    border: red solid 2px;
+    height: auto;
+    width: 75%;
+    display: flex;
+}
+.imagen2{
+    height: auto;
+    width: 50%;
+    height: auto;
+}
+.imagen2 img{
+    height: 400px;
+    width: 71ºººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººº                                                                                                                               vh;
+}
+.texto2{
+    width: 50%;
+    height: 399px;
+    background: #16302A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto-con2{
+    text-align: center;
+    margin: 90px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
+.texto-con2 h1{
+    font-size: 3em;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
